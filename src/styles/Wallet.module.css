@@ -1,0 +1,78 @@
+.button6 {
+  display: inline-block;
+
+  border: none;
+  padding: 10px 10px;
+  border-radius: 10px;
+  box-sizing: content-box;
+  font-family: Didact Gothic;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: rgb(218, 255, 209);
+  background-color: rgb(0, 0, 0);
+  box-shadow: inset 0px -10px 5px -10px rgb(64, 255, 6);
+  margin: auto 5px auto auto;
+  margin-block-start: 5px;
+  margin-block-end: 5px;
+  font-size: 0.7rem;
+}
+
+.button7 {
+  display: inline-block;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 10px;
+  box-sizing: content-box;
+  font-family: Didact Gothic;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: rgb(218, 255, 209);
+  background-color: rgb(0, 0, 0);
+  box-shadow: inset 0px -10px 5px -10px rgb(64, 255, 6);
+  margin-block-start: 5px;
+  margin-block-end: 5px;
+  font-size: 0.7rem;
+  margin-right: 5px;
+}
+
+.walletCard {
+  display: inline-block;
+  border: none;
+  box-sizing: content-box;
+  border: 1em;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.247);
+  font-family: Didact Gothic;
+  text-transform: capitalize;
+  font-size: 0.7rem;
+  padding: 10px 10px;
+  margin: auto 5px auto 5px;
+  margin-block-start: 5px;
+  margin-block-end: 5px;
+  color: rgb(0, 0, 0);
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 2rem;
+  color: rgb(0, 0, 0);
+  font-family: Righteous;
+  text-transform: uppercase;
+  margin: auto 5px auto 5px;
+  margin-top: 5px;
+}
+
+.logo {
+  color: rgb(0, 0, 0);
+  font-family: Righteous;
+  font-size: 1.5rem;
+  margin: auto 5px auto 5px;
+  font-weight: bold;
+  text-shadow: 0px 0px 1px rgb(0, 0, 0);
+}
+
+Link {
+  color: rgb(0, 0, 0);
+}
