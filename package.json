@@ -7,12 +7,14 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
+    "ethers": "5.6.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-native": "0.68.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-transition-group": "^4.4.2",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
